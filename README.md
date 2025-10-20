@@ -1,7 +1,7 @@
 # 👋 Hi there, pseudo-name is messa!
 
 Nice to see you on my GitHub profile!  
-In short, I'm a backend developer and currently a student at [APEC PetroTechnic](https://apec.edu.kz/) in Atyrau City, Kazakhstan. Learning & Working as an intern & future state-employee at [Robosoft LLP](https://robosoft.kz/).
+In short, I'm a backend developer and currently a student at [APEC PetroTechnic](https://apec.edu.kz/) in Atyrau City, Kazakhstan. Learning & Working as an intern & future employee at [Robosoft LLP](https://robosoft.kz/).
 
 ---
 
