@@ -36,8 +36,8 @@ A web app for university applicants to track up-to-date activities within univer
 
 ## 📫 Connect with Me
 
-- [Telegram: @ikhlasov](https://t.me/ikhlasov)
-- [LinkedIn: Alikhan Ikhlassov](https://www.linkedin.com/in/alikhan-ikhlassov-859148317/)
+- Telegram: [@ikhlasov](https://t.me/ikhlasov)
+- LinkedIn: [Alikhan Ikhlassov](https://www.linkedin.com/in/alikhan-ikhlassov-859148317/)
 
 ---
 
