@@ -16,8 +16,8 @@ In short, I'm a backend developer and currently a student at [APEC PetroTechnic]
 
 ## 🛠️ Tech Stack
 
-- **Backend:** Python, Django
-- **Frontend:** React JSX (Vite)
+- **Backend:** Python Django
+- **Frontend:** React JSX (Vite), TailwindCSS
 - **Database:** PostgreSQL
 
 ---
