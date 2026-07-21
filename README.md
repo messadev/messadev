@@ -17,7 +17,7 @@
 
 ## 🧑‍💻 bio
 
-- 🎓 APEC PetroTechnic Higher College alumni'26
+- 🎓 APEC PetroTechnic Higher College alumni'26, moving to Almaty 
 - 🧩 a python dev with a sparkle of a frontend engineering :p
 - 📊 certified in **Big Data with Python** at SIC (samsung innovation campus)
 
