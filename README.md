@@ -1,25 +1,15 @@
-<!--
-  GitHub Profile README
-  ---------------------
-  This file belongs in a repository named EXACTLY like your GitHub username
-  (e.g. repo "alikhan" for github.com/alikhan). GitHub then shows it on your profile.
-
-  Replace every YOUR_USERNAME below with your real GitHub handle, and update the
-  LinkedIn URL. Everything renders on GitHub with no downloads or extra files.
--->
-
-<h1 align="center">Hi, I'm Alikhan 👋</h1>
-<p align="center">Backend Developer · Software Engineering student · Atyrau, Kazakhstan 🇰🇿</p>
+<h1 align="center">hi there, i'm Alikhan 👾</h1>
+<p align="center">backend dev · swe · Atyrau, Kazakhstan 🇰🇿</p>
 
 <p align="center">
   <a href="mailto:ibatollaalikhan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-1D4E89?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-1D4E89?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/ikhlassov">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedIn"/>
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-143A63?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/messadev">
+    <img src="https://img.shields.io/badge/GitHub-143A63?style=for-the-badge&logo=github&logoColor=white" alt="gh"/>
   </a>
 </p>
 
@@ -69,12 +59,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&title_color=1D4E89&icon_color=1D4E89" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&title_color=1D4E89" alt="Top languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=messadev&show_icons=true&hide_border=true&title_color=1D4E89&icon_color=1D4E89" alt="gh stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=messadev&layout=compact&hide_border=true&title_color=1D4E89" alt="top languages" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&ring=1D4E89&fire=1D4E89&currStreakLabel=1D4E89" alt="GitHub streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=messadev&hide_border=true&ring=1D4E89&fire=1D4E89&currStreakLabel=1D4E89" alt="gh streak"/>
 </p>
 
 ## 🤝 Connect
