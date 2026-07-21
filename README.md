@@ -57,8 +57,8 @@
 ## 📊 gh stats
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&labelColor=143A63&color=1D4E89" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&logo=github&labelColor=143A63&color=1D4E89" alt="Stars"/>
+  <img src="https://img.shields.io/github/followers/messadev?style=for-the-badge&logo=github&labelColor=143A63&color=1D4E89" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/messadev?style=for-the-badge&logo=github&labelColor=143A63&color=1D4E89" alt="Stars"/>
 </p>
 
 <p align="center">
