@@ -15,30 +15,28 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 bio
 
-- 🛠️ Backend developer focused on APIs, data, and clean automation.
-- 🎓 Studying Software Engineering at APEC PetroTechnic Higher College.
-- 🧩 I build with **Python** and **JavaScript/TypeScript** — from Django/FastAPI backends to Next.js apps.
-- 🏆 Student Council leader; competed in hackathons like **WorldSkills** and **Digital Bridge**.
-- 📊 Certified in **Big Data with Python** (Samsung Innovation Campus).
+- 🎓 APEC PetroTechnic Higher College alumni'26
+- 🧩 a python dev with a sparkle of a frontend engineering :p
+- 📊 certified in **Big Data with Python** at SIC (samsung innovation campus)
 
-## 🚀 Current Focus
+## 🚀 recent activities
 
-- 🚌 Building **Miyaly Bus** — a B2C bus-booking platform (Next.js + Supabase) with a seat map and conductor/admin panel.
-- 📈 Going deeper into data engineering and backend architecture.
-- ☁️ Sharpening my skills with Docker and Postgres.
+- currently building **Miyaly Bus** — a B2C bus-booking platform (next + supabase) with a feature of a seatmap
+- studying calculus to be prepared for uni, a bit scared
+- learning devops btw
 
-## 🧰 Tech Stack
+## 🧰 current tech stack
 
-**Languages**
+**langs**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-**Frameworks & Libraries**
+**frameworks & libraries**
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/DRF-A30000?style=flat&logo=django&logoColor=white)
@@ -47,7 +45,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-**Databases & Tools**
+**db & relevant tools**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
@@ -56,7 +54,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
-## 📊 GitHub Stats
+## 📊 gh stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=messadev&show_icons=true&hide_border=true&title_color=1D4E89&icon_color=1D4E89" alt="gh stats" height="165"/>
@@ -67,10 +65,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=messadev&hide_border=true&ring=1D4E89&fire=1D4E89&currStreakLabel=1D4E89" alt="gh streak"/>
 </p>
 
-## 🤝 Connect
-
-- 📫 Email: **ibatollaalikhan@gmail.com**
-- 💼 LinkedIn: **https://www.linkedin.com/in/YOUR_LINKEDIN**
-- 📍 Atyrau, Kazakhstan
-
-<p align="center"><i>Thanks for stopping by — feel free to check out my repositories!</i></p>
+<p align="center">good to see you. feel free to check out my gh repos.</p>
