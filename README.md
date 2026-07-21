@@ -57,8 +57,8 @@
 ## 📊 gh stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=messadev&show_icons=true&hide_border=true&title_color=1D4E89&icon_color=1D4E89" alt="gh stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=messadev&layout=compact&hide_border=true&title_color=1D4E89" alt="top languages" height="165"/>
+  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&labelColor=143A63&color=1D4E89" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&logo=github&labelColor=143A63&color=1D4E89" alt="Stars"/>
 </p>
 
 <p align="center">
