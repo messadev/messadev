@@ -11,6 +11,9 @@
   <a href="https://github.com/messadev">
     <img src="https://img.shields.io/badge/GitHub-143A63?style=for-the-badge&logo=github&logoColor=white" alt="gh"/>
   </a>
+  <a href="https://t.me/ikhlasov">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/>
+  </a>
 </p>
 
 ---
