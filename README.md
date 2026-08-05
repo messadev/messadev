@@ -64,7 +64,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=messadev&hide_border=true&ring=1D4E89&fire=1D4E89&currStreakLabel=1D4E89" alt="gh streak"/>
+  [![gitroast](https://gitroast.me/api/badge/messadev)](https://gitroast.me/u/messadev)
 </p>
 
 <p align="center">good to see you. feel free to check out my gh repos.</p>
