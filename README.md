@@ -64,7 +64,7 @@
 </p>
 
 <p align="center">
-  [![gitroast](https://gitroast.me/api/badge/messadev)](https://gitroast.me/u/messadev)
+  ![gitroast](https://gitroast.me/api/badge/messadev)
 </p>
 
 <p align="center">good to see you. feel free to check out my gh repos.</p>
