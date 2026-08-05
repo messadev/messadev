@@ -63,8 +63,6 @@
   <img src="https://img.shields.io/github/stars/messadev?style=for-the-badge&logo=github&labelColor=143A63&color=1D4E89" alt="Stars"/>
 </p>
 
-<p align="center">
-  ![gitroast](https://gitroast.me/api/badge/messadev)
-</p>
+![gitroast](https://gitroast.me/api/badge/messadev)
 
 <p align="center">good to see you. feel free to check out my gh repos.</p>
