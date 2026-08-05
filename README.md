@@ -26,8 +26,7 @@
 
 ## 🚀 recent activities
 
-- currently building **Miyaly Bus** — a B2C bus-booking platform (next + supabase) with a feature of a seatmap
-- studying calculus to be prepared for uni, a bit scared
+- currently building **Miyaly Bus** — a B2C bus-booking platform (next, psql) with a feature of a seatmap
 - learning devops btw
 
 ## 🧰 current tech stack
