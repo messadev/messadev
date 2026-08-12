@@ -38,7 +38,7 @@
 
 <table width="100%" style="border-collapse: collapse; border: none !important;" border="0" cellpadding="0" cellspacing="0">
   <tr style="border: none;">
-    <td width="70%" align="left" valign="top" style="border: none; padding-right: 20px;">
+    <td width="55%" align="left" valign="top" style="border: none; padding-right: 20px;">
       
   **langs i write**
       
@@ -65,7 +65,7 @@
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
   ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
     </td>
-    <td width="30%" align="right" valign="top" style="border: none;"><img width="100%" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWx1eDY1NG1icmZ0NzhycHV3em9sazZkanYzdTJ6aHpybnc0Nzl4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SZ9orKfHbDnwc/giphy.gif"></td>
+    <td width="45%" align="right" valign="top" style="border: none;"><img width="100%" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWx1eDY1NG1icmZ0NzhycHV3em9sazZkanYzdTJ6aHpybnc0Nzl4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SZ9orKfHbDnwc/giphy.gif"></td>
   </tr>
 </table>
 
