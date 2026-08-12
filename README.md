@@ -44,7 +44,7 @@
   
 </div>
 
-<table width="100%" style="border-collapse: collapse; border: none;" border="0" cellpadding="0" cellspacing="0">
+<table width="100%" style="border-collapse: collapse; border: none !important;" border="0" cellpadding="0" cellspacing="0">
   <tr style="border: none;">
     <td width="60%" align="left" valign="top" style="border: none; padding-right: 20px;">
       **langs i write**
