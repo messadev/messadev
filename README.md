@@ -36,12 +36,23 @@
   
   <div>
 
-  **langs i write**
   
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+    
+  </div>
+
+  
+  
+</div>
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="50%" align="left" valign="top">
+      **langs i write**
+  
+        ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+        ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+        ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+        ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
   
   **frameworks & libraries**
   
@@ -60,12 +71,11 @@
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
   ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-    
-  </div>
+    </td>
+    <td width="50%" align="right" valign="top"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWx1eDY1NG1icmZ0NzhycHV3em9sazZkanYzdTJ6aHpybnc0Nzl4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SZ9orKfHbDnwc/giphy.gif"></td>
+  </tr>
+</table>
 
-  ![gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWx1eDY1NG1icmZ0NzhycHV3em9sazZkanYzdTJ6aHpybnc0Nzl4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SZ9orKfHbDnwc/giphy.gif)
-  
-</div>
 
 
 ## 📊 gh stats
