@@ -30,9 +30,13 @@
 - learning devops btw
 
 
-<div>
-  
+<div style="flex justify-between">
+
   ## 🧰 current tech stack
+  
+  <div>
+
+  **langs i write**
   
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -56,8 +60,12 @@
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
   ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+    
+  </div>
+
+  ![gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWx1eDY1NG1icmZ0NzhycHV3em9sazZkanYzdTJ6aHpybnc0Nzl4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SZ9orKfHbDnwc/giphy.gif)
+  
 </div>
-**langs**
 
 
 ## 📊 gh stats
