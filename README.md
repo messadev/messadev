@@ -73,7 +73,7 @@
 
 ## 📊 gh stats
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/github/followers/messadf?style=for-the-badge&logo=github&labelColor=143A63&color=1D4E89" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/messadf?style=for-the-badge&logo=github&labelColor=143A63&color=1D4E89" alt="Stars"/>
   
