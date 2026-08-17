@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/ikhlassov">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedIn"/>
   </a>
-  <a href="https://github.com/messadev">
+  <a href="https://github.com/messadf">
     <img src="https://img.shields.io/badge/GitHub-143A63?style=for-the-badge&logo=github&logoColor=white" alt="gh"/>
   </a>
   <a href="https://t.me/ikhlasov">
@@ -74,10 +74,10 @@
 ## 📊 gh stats
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/messadev?style=for-the-badge&logo=github&labelColor=143A63&color=1D4E89" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/messadev?style=for-the-badge&logo=github&labelColor=143A63&color=1D4E89" alt="Stars"/>
+  <img src="https://img.shields.io/github/followers/messadf?style=for-the-badge&logo=github&labelColor=143A63&color=1D4E89" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/messadf?style=for-the-badge&logo=github&labelColor=143A63&color=1D4E89" alt="Stars"/>
 </p>
 
-![gitroast](https://gitroast.me/api/badge/messadev)
+![gitroast](https://gitroast.me/api/badge/messadf)
 
 <p align="center">good to see you. feel free to check out my gh repos.</p>
