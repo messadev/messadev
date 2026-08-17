@@ -76,6 +76,7 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/messadf?style=for-the-badge&logo=github&labelColor=143A63&color=1D4E89" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/messadf?style=for-the-badge&logo=github&labelColor=143A63&color=1D4E89" alt="Stars"/>
+  [![committers.top badge](https://user-badge.committers.top/kazakhstan_public/USERNAME.svg)](https://user-badge.committers.top/kazakhstan_public/USERNAME)
 </p>
 
 <p align="center">good to see you. feel free to check out my gh repos.</p>
