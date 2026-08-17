@@ -78,6 +78,4 @@
   <img src="https://img.shields.io/github/stars/messadf?style=for-the-badge&logo=github&labelColor=143A63&color=1D4E89" alt="Stars"/>
 </p>
 
-![gitroast](https://gitroast.me/api/badge/messadf)
-
 <p align="center">good to see you. feel free to check out my gh repos.</p>
